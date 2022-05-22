@@ -1,0 +1,4 @@
+[0mPOST /api/v1/token [33m400 [0m3.073 ms - 1403[0m
+[0mPOST /api/v1/token [33m404 [0m3606.767 ms - 24[0m
+[0mPOST /api/v1/signin [33m404 [0m392.486 ms - 50[0m
+[0mPOST /api/v1/signin [33m404 [0m52.605 ms - 33[0m
